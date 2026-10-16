@@ -1,0 +1,1001 @@
+"ANIO","MES","DPTO_HECHO_NEW","PROV_HECHO","DIST_HECHO","UBIGEO_HECHO","P_MODALIDADES","cantidad"
+"2018","1","AMAZONAS","BAGUA","ARAMANGO","10202","Otros",4
+"2018","1","AMAZONAS","BAGUA","ARAMANGO","10202","Violencia contra la mujer e integrantes",3
+"2018","1","AMAZONAS","BAGUA","BAGUA","10201","Estafa",2
+"2018","1","AMAZONAS","BAGUA","BAGUA","10201","Hurto",25
+"2018","1","AMAZONAS","BAGUA","BAGUA","10201","Otros",52
+"2018","1","AMAZONAS","BAGUA","BAGUA","10201","Robo",5
+"2018","1","AMAZONAS","BAGUA","BAGUA","10201","Violencia contra la mujer e integrantes",22
+"2018","1","AMAZONAS","BAGUA","COPALLIN","10203","Otros",4
+"2018","1","AMAZONAS","BAGUA","COPALLIN","10203","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","BAGUA","IMAZA","10205","Hurto",1
+"2018","1","AMAZONAS","BAGUA","LA PECA","10206","Otros",2
+"2018","1","AMAZONAS","BAGUA","LA PECA","10206","Robo",1
+"2018","1","AMAZONAS","BONGARA","CHISQUILLA","10302","Violencia contra la mujer e integrantes",2
+"2018","1","AMAZONAS","BONGARA","CUISPES","10305","Otros",1
+"2018","1","AMAZONAS","BONGARA","FLORIDA","10306","Hurto",2
+"2018","1","AMAZONAS","BONGARA","FLORIDA","10306","Otros",4
+"2018","1","AMAZONAS","BONGARA","JAZAN","10307","Hurto",7
+"2018","1","AMAZONAS","BONGARA","JAZAN","10307","Otros",14
+"2018","1","AMAZONAS","BONGARA","JAZAN","10307","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","BONGARA","JUMBILLA","10301","Otros",1
+"2018","1","AMAZONAS","BONGARA","YAMBRASBAMBA","10312","Otros",1
+"2018","1","AMAZONAS","BONGARA","YAMBRASBAMBA","10312","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","CHACHAPOYAS","CHACHAPOYAS","10101","Estafa",3
+"2018","1","AMAZONAS","CHACHAPOYAS","CHACHAPOYAS","10101","Extorsión",1
+"2018","1","AMAZONAS","CHACHAPOYAS","CHACHAPOYAS","10101","Hurto",25
+"2018","1","AMAZONAS","CHACHAPOYAS","CHACHAPOYAS","10101","Otros",60
+"2018","1","AMAZONAS","CHACHAPOYAS","CHACHAPOYAS","10101","Robo",6
+"2018","1","AMAZONAS","CHACHAPOYAS","CHACHAPOYAS","10101","Violencia contra la mujer e integrantes",57
+"2018","1","AMAZONAS","CHACHAPOYAS","CHETO","10104","Otros",1
+"2018","1","AMAZONAS","CHACHAPOYAS","CHUQUIBAMBA","10106","Otros",1
+"2018","1","AMAZONAS","CHACHAPOYAS","HUANCAS","10108","Otros",1
+"2018","1","AMAZONAS","CHACHAPOYAS","LEIMEBAMBA","10110","Otros",5
+"2018","1","AMAZONAS","CHACHAPOYAS","LEIMEBAMBA","10110","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","CHACHAPOYAS","MARISCAL CASTILLA","10113","Otros",2
+"2018","1","AMAZONAS","CHACHAPOYAS","MOLINOPAMPA","10114","Otros",4
+"2018","1","AMAZONAS","CHACHAPOYAS","MOLINOPAMPA","10114","Violencia contra la mujer e integrantes",6
+"2018","1","AMAZONAS","CHACHAPOYAS","QUINJALCA","10117","Hurto",1
+"2018","1","AMAZONAS","CHACHAPOYAS","SOLOCO","10120","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","CONDORCANQUI","EL CENEPA","10402","Otros",1
+"2018","1","AMAZONAS","CONDORCANQUI","NIEVA","10401","Hurto",1
+"2018","1","AMAZONAS","CONDORCANQUI","NIEVA","10401","Otros",11
+"2018","1","AMAZONAS","CONDORCANQUI","NIEVA","10401","Violencia contra la mujer e integrantes",10
+"2018","1","AMAZONAS","LUYA","CAMPORREDONDO","10502","Hurto",4
+"2018","1","AMAZONAS","LUYA","CAMPORREDONDO","10502","Otros",5
+"2018","1","AMAZONAS","LUYA","CAMPORREDONDO","10502","Violencia contra la mujer e integrantes",2
+"2018","1","AMAZONAS","LUYA","COLCAMAR","10504","Otros",1
+"2018","1","AMAZONAS","LUYA","COLCAMAR","10504","Violencia contra la mujer e integrantes",2
+"2018","1","AMAZONAS","LUYA","LAMUD","10501","Hurto",3
+"2018","1","AMAZONAS","LUYA","LAMUD","10501","Otros",1
+"2018","1","AMAZONAS","LUYA","LAMUD","10501","Robo",1
+"2018","1","AMAZONAS","LUYA","LAMUD","10501","Violencia contra la mujer e integrantes",4
+"2018","1","AMAZONAS","LUYA","LUYA","10509","Violencia contra la mujer e integrantes",4
+"2018","1","AMAZONAS","LUYA","PISUQUIA","10514","Otros",1
+"2018","1","AMAZONAS","LUYA","PISUQUIA","10514","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","LUYA","SANTO TOMAS","10521","Otros",4
+"2018","1","AMAZONAS","LUYA","SANTO TOMAS","10521","Violencia contra la mujer e integrantes",4
+"2018","1","AMAZONAS","LUYA","TINGO","10522","Otros",3
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","CHIRIMOTO","10602","Otros",1
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","HUAMBO","10604","Otros",2
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","HUAMBO","10604","Robo",1
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","HUAMBO","10604","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","LIMABAMBA","10605","Otros",1
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","LIMABAMBA","10605","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","LONGAR","10606","Otros",2
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","LONGAR","10606","Violencia contra la mujer e integrantes",2
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","MARISCAL BENAVIDES","10607","Otros",2
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","MARISCAL BENAVIDES","10607","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","OMIA","10609","Otros",2
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","SAN NICOLAS","10601","Hurto",1
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","SAN NICOLAS","10601","Otros",5
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","SAN NICOLAS","10601","Violencia contra la mujer e integrantes",8
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","SANTA ROSA","10610","Otros",2
+"2018","1","AMAZONAS","RODRIGUEZ DE MENDOZA","TOTORA","10611","Otros",1
+"2018","1","AMAZONAS","UTCUBAMBA","BAGUA GRANDE","10701","Estafa",3
+"2018","1","AMAZONAS","UTCUBAMBA","BAGUA GRANDE","10701","Extorsión",1
+"2018","1","AMAZONAS","UTCUBAMBA","BAGUA GRANDE","10701","Hurto",70
+"2018","1","AMAZONAS","UTCUBAMBA","BAGUA GRANDE","10701","Otros",52
+"2018","1","AMAZONAS","UTCUBAMBA","BAGUA GRANDE","10701","Robo",6
+"2018","1","AMAZONAS","UTCUBAMBA","BAGUA GRANDE","10701","Violencia contra la mujer e integrantes",50
+"2018","1","AMAZONAS","UTCUBAMBA","CAJARURO","10702","Hurto",3
+"2018","1","AMAZONAS","UTCUBAMBA","CAJARURO","10702","Otros",18
+"2018","1","AMAZONAS","UTCUBAMBA","CAJARURO","10702","Robo",1
+"2018","1","AMAZONAS","UTCUBAMBA","CAJARURO","10702","Violencia contra la mujer e integrantes",10
+"2018","1","AMAZONAS","UTCUBAMBA","CUMBA","10703","Hurto",1
+"2018","1","AMAZONAS","UTCUBAMBA","CUMBA","10703","Otros",8
+"2018","1","AMAZONAS","UTCUBAMBA","CUMBA","10703","Violencia contra la mujer e integrantes",2
+"2018","1","AMAZONAS","UTCUBAMBA","EL MILAGRO","10704","Otros",5
+"2018","1","AMAZONAS","UTCUBAMBA","JAMALCA","10705","Hurto",2
+"2018","1","AMAZONAS","UTCUBAMBA","JAMALCA","10705","Otros",9
+"2018","1","AMAZONAS","UTCUBAMBA","JAMALCA","10705","Violencia contra la mujer e integrantes",1
+"2018","1","AMAZONAS","UTCUBAMBA","LONYA GRANDE","10706","Hurto",2
+"2018","1","AMAZONAS","UTCUBAMBA","LONYA GRANDE","10706","Otros",7
+"2018","1","AMAZONAS","UTCUBAMBA","LONYA GRANDE","10706","Violencia contra la mujer e integrantes",2
+"2018","1","ANCASH","AIJA","AIJA","20201","Otros",4
+"2018","1","ANCASH","AIJA","AIJA","20201","Robo",1
+"2018","1","ANCASH","AIJA","AIJA","20201","Violencia contra la mujer e integrantes",3
+"2018","1","ANCASH","AIJA","LA MERCED","20204","Otros",1
+"2018","1","ANCASH","ASUNCION","ACOCHACA","20402","Otros",1
+"2018","1","ANCASH","ASUNCION","ACOCHACA","20402","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","ASUNCION","CHACAS","20401","Otros",2
+"2018","1","ANCASH","ASUNCION","CHACAS","20401","Violencia contra la mujer e integrantes",3
+"2018","1","ANCASH","BOLOGNESI","CAJACAY","20505","Hurto",1
+"2018","1","ANCASH","BOLOGNESI","CHIQUIAN","20501","Hurto",1
+"2018","1","ANCASH","BOLOGNESI","CHIQUIAN","20501","Otros",3
+"2018","1","ANCASH","BOLOGNESI","CHIQUIAN","20501","Robo",2
+"2018","1","ANCASH","BOLOGNESI","CHIQUIAN","20501","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","BOLOGNESI","COLQUIOC","20507","Otros",1
+"2018","1","ANCASH","BOLOGNESI","HUALLANCA","20508","Otros",6
+"2018","1","ANCASH","BOLOGNESI","HUALLANCA","20508","Violencia contra la mujer e integrantes",2
+"2018","1","ANCASH","BOLOGNESI","PACLLON","20513","Hurto",1
+"2018","1","ANCASH","CARHUAZ","ACOPAMPA","20602","Violencia contra la mujer e integrantes",2
+"2018","1","ANCASH","CARHUAZ","AMASHCA","20603","Otros",2
+"2018","1","ANCASH","CARHUAZ","AMASHCA","20603","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","CARHUAZ","ANTA","20604","Otros",4
+"2018","1","ANCASH","CARHUAZ","CARHUAZ","20601","Otros",14
+"2018","1","ANCASH","CARHUAZ","CARHUAZ","20601","Violencia contra la mujer e integrantes",16
+"2018","1","ANCASH","CARHUAZ","MARCARA","20606","Hurto",1
+"2018","1","ANCASH","CARHUAZ","MARCARA","20606","Otros",5
+"2018","1","ANCASH","CARHUAZ","MARCARA","20606","Violencia contra la mujer e integrantes",4
+"2018","1","ANCASH","CARHUAZ","TINCO","20610","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","CARHUAZ","YUNGAR","20611","Otros",3
+"2018","1","ANCASH","CARLOS FERMIN FITZCARRALD","SAN LUIS","20701","Otros",1
+"2018","1","ANCASH","CARLOS FERMIN FITZCARRALD","SAN LUIS","20701","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","CASMA","BUENA VISTA ALTA","20802","Otros",2
+"2018","1","ANCASH","CASMA","CASMA","20801","Extorsión",2
+"2018","1","ANCASH","CASMA","CASMA","20801","Hurto",13
+"2018","1","ANCASH","CASMA","CASMA","20801","Otros",25
+"2018","1","ANCASH","CASMA","CASMA","20801","Robo",2
+"2018","1","ANCASH","CASMA","CASMA","20801","Violencia contra la mujer e integrantes",35
+"2018","1","ANCASH","CASMA","COMANDANTE NOEL","20803","Otros",1
+"2018","1","ANCASH","CASMA","YAUTAN","20804","Otros",3
+"2018","1","ANCASH","CASMA","YAUTAN","20804","Violencia contra la mujer e integrantes",2
+"2018","1","ANCASH","CORONGO","ACO","20902","Otros",1
+"2018","1","ANCASH","CORONGO","CORONGO","20901","Otros",3
+"2018","1","ANCASH","CORONGO","LA PAMPA","20905","Otros",1
+"2018","1","ANCASH","CORONGO","YUPAN","20907","Otros",1
+"2018","1","ANCASH","HUARAZ","HUARAZ","20101","Estafa",2
+"2018","1","ANCASH","HUARAZ","HUARAZ","20101","Extorsión",1
+"2018","1","ANCASH","HUARAZ","HUARAZ","20101","Hurto",37
+"2018","1","ANCASH","HUARAZ","HUARAZ","20101","Otros",172
+"2018","1","ANCASH","HUARAZ","HUARAZ","20101","Robo",8
+"2018","1","ANCASH","HUARAZ","HUARAZ","20101","Violencia contra la mujer e integrantes",111
+"2018","1","ANCASH","HUARAZ","INDEPENDENCIA","20105","Hurto",6
+"2018","1","ANCASH","HUARAZ","INDEPENDENCIA","20105","Otros",33
+"2018","1","ANCASH","HUARAZ","INDEPENDENCIA","20105","Robo",2
+"2018","1","ANCASH","HUARAZ","INDEPENDENCIA","20105","Violencia contra la mujer e integrantes",27
+"2018","1","ANCASH","HUARAZ","PARIACOTO","20110","Otros",2
+"2018","1","ANCASH","HUARAZ","TARICA","20112","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","HUARI","ANRA","21002","Otros",1
+"2018","1","ANCASH","HUARI","HUARI","21001","Estafa",1
+"2018","1","ANCASH","HUARI","HUARI","21001","Hurto",1
+"2018","1","ANCASH","HUARI","HUARI","21001","Otros",9
+"2018","1","ANCASH","HUARI","HUARI","21001","Violencia contra la mujer e integrantes",2
+"2018","1","ANCASH","HUARMEY","HUARMEY","21101","Extorsión",1
+"2018","1","ANCASH","HUARMEY","HUARMEY","21101","Hurto",9
+"2018","1","ANCASH","HUARMEY","HUARMEY","21101","Otros",15
+"2018","1","ANCASH","HUARMEY","HUARMEY","21101","Robo",7
+"2018","1","ANCASH","HUARMEY","HUARMEY","21101","Violencia contra la mujer e integrantes",5
+"2018","1","ANCASH","HUAYLAS","CARAZ","21201","Hurto",10
+"2018","1","ANCASH","HUAYLAS","CARAZ","21201","Otros",19
+"2018","1","ANCASH","HUAYLAS","CARAZ","21201","Robo",2
+"2018","1","ANCASH","HUAYLAS","CARAZ","21201","Violencia contra la mujer e integrantes",32
+"2018","1","ANCASH","HUAYLAS","MATO","21205","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","HUAYLAS","PUEBLO LIBRE","21207","Otros",1
+"2018","1","ANCASH","MARISCAL LUZURIAGA","CASCA","21302","Otros",3
+"2018","1","ANCASH","MARISCAL LUZURIAGA","CASCA","21302","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","MARISCAL LUZURIAGA","LLAMA","21305","Violencia contra la mujer e integrantes",2
+"2018","1","ANCASH","MARISCAL LUZURIAGA","LLUMPA","21306","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","MARISCAL LUZURIAGA","LUCMA","21307","Hurto",1
+"2018","1","ANCASH","MARISCAL LUZURIAGA","PISCOBAMBA","21301","Otros",4
+"2018","1","ANCASH","MARISCAL LUZURIAGA","PISCOBAMBA","21301","Violencia contra la mujer e integrantes",2
+"2018","1","ANCASH","OCROS","OCROS","21401","Otros",1
+"2018","1","ANCASH","PALLASCA","BOLOGNESI","21502","Otros",1
+"2018","1","ANCASH","PALLASCA","CABANA","21501","Violencia contra la mujer e integrantes",5
+"2018","1","ANCASH","PALLASCA","SANTA ROSA","21510","Otros",1
+"2018","1","ANCASH","PALLASCA","TAUCA","21511","Otros",2
+"2018","1","ANCASH","POMABAMBA","POMABAMBA","21601","Hurto",3
+"2018","1","ANCASH","POMABAMBA","POMABAMBA","21601","Otros",4
+"2018","1","ANCASH","POMABAMBA","POMABAMBA","21601","Violencia contra la mujer e integrantes",5
+"2018","1","ANCASH","RECUAY","RECUAY","21701","Otros",1
+"2018","1","ANCASH","RECUAY","RECUAY","21701","Robo",1
+"2018","1","ANCASH","RECUAY","RECUAY","21701","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","RECUAY","TICAPAMPA","21710","Otros",4
+"2018","1","ANCASH","RECUAY","TICAPAMPA","21710","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","SANTA","CACERES DEL PERU","21802","Otros",1
+"2018","1","ANCASH","SANTA","CHIMBOTE","21801","Estafa",6
+"2018","1","ANCASH","SANTA","CHIMBOTE","21801","Extorsión",4
+"2018","1","ANCASH","SANTA","CHIMBOTE","21801","Hurto",102
+"2018","1","ANCASH","SANTA","CHIMBOTE","21801","Otros",201
+"2018","1","ANCASH","SANTA","CHIMBOTE","21801","Robo",53
+"2018","1","ANCASH","SANTA","CHIMBOTE","21801","Violencia contra la mujer e integrantes",141
+"2018","1","ANCASH","SANTA","COISHCO","21803","Estafa",1
+"2018","1","ANCASH","SANTA","COISHCO","21803","Hurto",3
+"2018","1","ANCASH","SANTA","COISHCO","21803","Otros",10
+"2018","1","ANCASH","SANTA","COISHCO","21803","Robo",1
+"2018","1","ANCASH","SANTA","COISHCO","21803","Violencia contra la mujer e integrantes",7
+"2018","1","ANCASH","SANTA","MACATE","21804","Hurto",1
+"2018","1","ANCASH","SANTA","MORO","21805","Otros",4
+"2018","1","ANCASH","SANTA","MORO","21805","Robo",2
+"2018","1","ANCASH","SANTA","MORO","21805","Violencia contra la mujer e integrantes",9
+"2018","1","ANCASH","SANTA","NEPEÑA","21806","Otros",19
+"2018","1","ANCASH","SANTA","NEPEÑA","21806","Robo",1
+"2018","1","ANCASH","SANTA","NEPEÑA","21806","Violencia contra la mujer e integrantes",10
+"2018","1","ANCASH","SANTA","NUEVO CHIMBOTE","21809","Estafa",4
+"2018","1","ANCASH","SANTA","NUEVO CHIMBOTE","21809","Extorsión",1
+"2018","1","ANCASH","SANTA","NUEVO CHIMBOTE","21809","Hurto",55
+"2018","1","ANCASH","SANTA","NUEVO CHIMBOTE","21809","Otros",111
+"2018","1","ANCASH","SANTA","NUEVO CHIMBOTE","21809","Robo",38
+"2018","1","ANCASH","SANTA","NUEVO CHIMBOTE","21809","Violencia contra la mujer e integrantes",115
+"2018","1","ANCASH","SANTA","SAMANCO","21807","Otros",6
+"2018","1","ANCASH","SANTA","SAMANCO","21807","Violencia contra la mujer e integrantes",2
+"2018","1","ANCASH","SANTA","SANTA","21808","Extorsión",1
+"2018","1","ANCASH","SANTA","SANTA","21808","Hurto",7
+"2018","1","ANCASH","SANTA","SANTA","21808","Otros",31
+"2018","1","ANCASH","SANTA","SANTA","21808","Robo",6
+"2018","1","ANCASH","SANTA","SANTA","21808","Violencia contra la mujer e integrantes",25
+"2018","1","ANCASH","SIHUAS","SAN JUAN","21909","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","SIHUAS","SICSIBAMBA","21910","Otros",1
+"2018","1","ANCASH","SIHUAS","SIHUAS","21901","Otros",7
+"2018","1","ANCASH","SIHUAS","SIHUAS","21901","Robo",1
+"2018","1","ANCASH","SIHUAS","SIHUAS","21901","Violencia contra la mujer e integrantes",1
+"2018","1","ANCASH","YUNGAY","MANCOS","22003","Hurto",1
+"2018","1","ANCASH","YUNGAY","MANCOS","22003","Otros",3
+"2018","1","ANCASH","YUNGAY","MANCOS","22003","Violencia contra la mujer e integrantes",7
+"2018","1","ANCASH","YUNGAY","RANRAHIRCA","22006","Estafa",1
+"2018","1","ANCASH","YUNGAY","RANRAHIRCA","22006","Otros",8
+"2018","1","ANCASH","YUNGAY","RANRAHIRCA","22006","Violencia contra la mujer e integrantes",6
+"2018","1","ANCASH","YUNGAY","YUNGAY","22001","Hurto",3
+"2018","1","ANCASH","YUNGAY","YUNGAY","22001","Otros",11
+"2018","1","ANCASH","YUNGAY","YUNGAY","22001","Robo",4
+"2018","1","ANCASH","YUNGAY","YUNGAY","22001","Violencia contra la mujer e integrantes",18
+"2018","1","APURIMAC","ABANCAY","ABANCAY","30101","Estafa",1
+"2018","1","APURIMAC","ABANCAY","ABANCAY","30101","Hurto",44
+"2018","1","APURIMAC","ABANCAY","ABANCAY","30101","Otros",105
+"2018","1","APURIMAC","ABANCAY","ABANCAY","30101","Robo",4
+"2018","1","APURIMAC","ABANCAY","ABANCAY","30101","Violencia contra la mujer e integrantes",128
+"2018","1","APURIMAC","ABANCAY","CHACOCHE","30102","Hurto",1
+"2018","1","APURIMAC","ABANCAY","CURAHUASI","30104","Hurto",2
+"2018","1","APURIMAC","ABANCAY","CURAHUASI","30104","Otros",14
+"2018","1","APURIMAC","ABANCAY","CURAHUASI","30104","Violencia contra la mujer e integrantes",10
+"2018","1","APURIMAC","ABANCAY","HUANIPACA","30105","Hurto",1
+"2018","1","APURIMAC","ABANCAY","HUANIPACA","30105","Otros",5
+"2018","1","APURIMAC","ABANCAY","LAMBRAMA","30106","Otros",1
+"2018","1","APURIMAC","ABANCAY","PICHIRHUA","30107","Violencia contra la mujer e integrantes",1
+"2018","1","APURIMAC","ABANCAY","TAMBURCO","30109","Hurto",1
+"2018","1","APURIMAC","ABANCAY","TAMBURCO","30109","Otros",6
+"2018","1","APURIMAC","ABANCAY","TAMBURCO","30109","Violencia contra la mujer e integrantes",23
+"2018","1","APURIMAC","ANDAHUAYLAS","ANDAHUAYLAS","30201","Estafa",3
+"2018","1","APURIMAC","ANDAHUAYLAS","ANDAHUAYLAS","30201","Hurto",11
+"2018","1","APURIMAC","ANDAHUAYLAS","ANDAHUAYLAS","30201","Otros",39
+"2018","1","APURIMAC","ANDAHUAYLAS","ANDAHUAYLAS","30201","Robo",2
+"2018","1","APURIMAC","ANDAHUAYLAS","ANDAHUAYLAS","30201","Violencia contra la mujer e integrantes",39
+"2018","1","APURIMAC","ANDAHUAYLAS","ANDARAPA","30202","Hurto",1
+"2018","1","APURIMAC","ANDAHUAYLAS","ANDARAPA","30202","Otros",1
+"2018","1","APURIMAC","ANDAHUAYLAS","ANDARAPA","30202","Violencia contra la mujer e integrantes",2
+"2018","1","APURIMAC","ANDAHUAYLAS","HUANCARAMA","30204","Violencia contra la mujer e integrantes",2
+"2018","1","APURIMAC","ANDAHUAYLAS","HUANCARAY","30205","Violencia contra la mujer e integrantes",1
+"2018","1","APURIMAC","ANDAHUAYLAS","KAQUIABAMBA","30219","Violencia contra la mujer e integrantes",1
+"2018","1","APURIMAC","ANDAHUAYLAS","KISHUARA","30207","Hurto",1
+"2018","1","APURIMAC","ANDAHUAYLAS","KISHUARA","30207","Otros",2
+"2018","1","APURIMAC","ANDAHUAYLAS","KISHUARA","30207","Robo",1
+"2018","1","APURIMAC","ANDAHUAYLAS","KISHUARA","30207","Violencia contra la mujer e integrantes",1
+"2018","1","APURIMAC","ANDAHUAYLAS","PACUCHA","30209","Hurto",1
+"2018","1","APURIMAC","ANDAHUAYLAS","PACUCHA","30209","Otros",6
+"2018","1","APURIMAC","ANDAHUAYLAS","PACUCHA","30209","Robo",1
+"2018","1","APURIMAC","ANDAHUAYLAS","PACUCHA","30209","Violencia contra la mujer e integrantes",7
+"2018","1","APURIMAC","ANDAHUAYLAS","SAN JERONIMO","30213","Hurto",1
+"2018","1","APURIMAC","ANDAHUAYLAS","SAN JERONIMO","30213","Otros",1
+"2018","1","APURIMAC","ANDAHUAYLAS","SAN JERONIMO","30213","Robo",2
+"2018","1","APURIMAC","ANDAHUAYLAS","SAN JERONIMO","30213","Violencia contra la mujer e integrantes",16
+"2018","1","APURIMAC","ANDAHUAYLAS","SANTA MARIA DE CHICMO","30215","Robo",1
+"2018","1","APURIMAC","ANDAHUAYLAS","SANTA MARIA DE CHICMO","30215","Violencia contra la mujer e integrantes",4
+"2018","1","APURIMAC","ANDAHUAYLAS","TALAVERA","30216","Hurto",3
+"2018","1","APURIMAC","ANDAHUAYLAS","TALAVERA","30216","Otros",19
+"2018","1","APURIMAC","ANDAHUAYLAS","TALAVERA","30216","Robo",1
+"2018","1","APURIMAC","ANDAHUAYLAS","TALAVERA","30216","Violencia contra la mujer e integrantes",33
+"2018","1","APURIMAC","ANTABAMBA","PACHACONAS","30306","Otros",2
+"2018","1","APURIMAC","ANTABAMBA","PACHACONAS","30306","Violencia contra la mujer e integrantes",1
+"2018","1","APURIMAC","AYMARAES","CHALHUANCA","30401","Hurto",1
+"2018","1","APURIMAC","AYMARAES","CHALHUANCA","30401","Otros",5
+"2018","1","APURIMAC","AYMARAES","CHALHUANCA","30401","Violencia contra la mujer e integrantes",5
+"2018","1","APURIMAC","AYMARAES","SAÑAYCA","30412","Otros",1
+"2018","1","APURIMAC","CHINCHEROS","ANCO_HUALLO","30602","Estafa",1
+"2018","1","APURIMAC","CHINCHEROS","ANCO_HUALLO","30602","Otros",4
+"2018","1","APURIMAC","CHINCHEROS","ANCO_HUALLO","30602","Violencia contra la mujer e integrantes",5
+"2018","1","APURIMAC","CHINCHEROS","CHINCHEROS","30601","Otros",11
+"2018","1","APURIMAC","CHINCHEROS","CHINCHEROS","30601","Robo",3
+"2018","1","APURIMAC","CHINCHEROS","CHINCHEROS","30601","Violencia contra la mujer e integrantes",7
+"2018","1","APURIMAC","CHINCHEROS","HUACCANA","30604","Otros",1
+"2018","1","APURIMAC","CHINCHEROS","HUACCANA","30604","Robo",1
+"2018","1","APURIMAC","CHINCHEROS","HUACCANA","30604","Violencia contra la mujer e integrantes",2
+"2018","1","APURIMAC","CHINCHEROS","OCOBAMBA","30605","Otros",5
+"2018","1","APURIMAC","CHINCHEROS","OCOBAMBA","30605","Robo",2
+"2018","1","APURIMAC","CHINCHEROS","OCOBAMBA","30605","Violencia contra la mujer e integrantes",1
+"2018","1","APURIMAC","CHINCHEROS","ONGOY","30606","Violencia contra la mujer e integrantes",2
+"2018","1","APURIMAC","CHINCHEROS","RANRACANCHA","30608","Otros",4
+"2018","1","APURIMAC","CHINCHEROS","RANRACANCHA","30608","Robo",1
+"2018","1","APURIMAC","CHINCHEROS","RANRACANCHA","30608","Violencia contra la mujer e integrantes",1
+"2018","1","APURIMAC","COTABAMBAS","CHALLHUAHUACHO","30506","Otros",1
+"2018","1","APURIMAC","COTABAMBAS","HAQUIRA","30504","Otros",8
+"2018","1","APURIMAC","COTABAMBAS","HAQUIRA","30504","Violencia contra la mujer e integrantes",1
+"2018","1","APURIMAC","GRAU","VILCABAMBA","30712","Otros",1
+"2018","1","AREQUIPA","AREQUIPA","ALTO SELVA ALEGRE","40102","Hurto",29
+"2018","1","AREQUIPA","AREQUIPA","ALTO SELVA ALEGRE","40102","Otros",64
+"2018","1","AREQUIPA","AREQUIPA","ALTO SELVA ALEGRE","40102","Robo",11
+"2018","1","AREQUIPA","AREQUIPA","ALTO SELVA ALEGRE","40102","Violencia contra la mujer e integrantes",141
+"2018","1","AREQUIPA","AREQUIPA","AREQUIPA","40101","Estafa",24
+"2018","1","AREQUIPA","AREQUIPA","AREQUIPA","40101","Extorsión",4
+"2018","1","AREQUIPA","AREQUIPA","AREQUIPA","40101","Hurto",94
+"2018","1","AREQUIPA","AREQUIPA","AREQUIPA","40101","Otros",204
+"2018","1","AREQUIPA","AREQUIPA","AREQUIPA","40101","Robo",24
+"2018","1","AREQUIPA","AREQUIPA","AREQUIPA","40101","Secuestro",2
+"2018","1","AREQUIPA","AREQUIPA","AREQUIPA","40101","Violencia contra la mujer e integrantes",72
+"2018","1","AREQUIPA","AREQUIPA","CAYMA","40103","Estafa",3
+"2018","1","AREQUIPA","AREQUIPA","CAYMA","40103","Hurto",51
+"2018","1","AREQUIPA","AREQUIPA","CAYMA","40103","Otros",91
+"2018","1","AREQUIPA","AREQUIPA","CAYMA","40103","Robo",14
+"2018","1","AREQUIPA","AREQUIPA","CAYMA","40103","Secuestro",1
+"2018","1","AREQUIPA","AREQUIPA","CAYMA","40103","Violencia contra la mujer e integrantes",112
+"2018","1","AREQUIPA","AREQUIPA","CERRO COLORADO","40104","Estafa",5
+"2018","1","AREQUIPA","AREQUIPA","CERRO COLORADO","40104","Hurto",60
+"2018","1","AREQUIPA","AREQUIPA","CERRO COLORADO","40104","Otros",189
+"2018","1","AREQUIPA","AREQUIPA","CERRO COLORADO","40104","Robo",26
+"2018","1","AREQUIPA","AREQUIPA","CERRO COLORADO","40104","Secuestro",1
+"2018","1","AREQUIPA","AREQUIPA","CERRO COLORADO","40104","Violencia contra la mujer e integrantes",306
+"2018","1","AREQUIPA","AREQUIPA","CHARACATO","40105","Estafa",2
+"2018","1","AREQUIPA","AREQUIPA","CHARACATO","40105","Hurto",4
+"2018","1","AREQUIPA","AREQUIPA","CHARACATO","40105","Otros",31
+"2018","1","AREQUIPA","AREQUIPA","CHARACATO","40105","Robo",1
+"2018","1","AREQUIPA","AREQUIPA","CHARACATO","40105","Violencia contra la mujer e integrantes",14
+"2018","1","AREQUIPA","AREQUIPA","CHIGUATA","40106","Hurto",1
+"2018","1","AREQUIPA","AREQUIPA","CHIGUATA","40106","Otros",3
+"2018","1","AREQUIPA","AREQUIPA","JACOBO HUNTER","40107","Estafa",3
+"2018","1","AREQUIPA","AREQUIPA","JACOBO HUNTER","40107","Hurto",12
+"2018","1","AREQUIPA","AREQUIPA","JACOBO HUNTER","40107","Otros",60
+"2018","1","AREQUIPA","AREQUIPA","JACOBO HUNTER","40107","Robo",8
+"2018","1","AREQUIPA","AREQUIPA","JACOBO HUNTER","40107","Secuestro",1
+"2018","1","AREQUIPA","AREQUIPA","JACOBO HUNTER","40107","Violencia contra la mujer e integrantes",48
+"2018","1","AREQUIPA","AREQUIPA","JOSE LUIS BUSTAMANTE Y RIVERO","40129","Estafa",3
+"2018","1","AREQUIPA","AREQUIPA","JOSE LUIS BUSTAMANTE Y RIVERO","40129","Extorsión",1
+"2018","1","AREQUIPA","AREQUIPA","JOSE LUIS BUSTAMANTE Y RIVERO","40129","Hurto",66
+"2018","1","AREQUIPA","AREQUIPA","JOSE LUIS BUSTAMANTE Y RIVERO","40129","Otros",157
+"2018","1","AREQUIPA","AREQUIPA","JOSE LUIS BUSTAMANTE Y RIVERO","40129","Robo",26
+"2018","1","AREQUIPA","AREQUIPA","JOSE LUIS BUSTAMANTE Y RIVERO","40129","Secuestro",1
+"2018","1","AREQUIPA","AREQUIPA","JOSE LUIS BUSTAMANTE Y RIVERO","40129","Violencia contra la mujer e integrantes",89
+"2018","1","AREQUIPA","AREQUIPA","LA JOYA","40108","Hurto",17
+"2018","1","AREQUIPA","AREQUIPA","LA JOYA","40108","Otros",29
+"2018","1","AREQUIPA","AREQUIPA","LA JOYA","40108","Robo",3
+"2018","1","AREQUIPA","AREQUIPA","LA JOYA","40108","Violencia contra la mujer e integrantes",24
+"2018","1","AREQUIPA","AREQUIPA","MARIANO MELGAR","40109","Estafa",3
+"2018","1","AREQUIPA","AREQUIPA","MARIANO MELGAR","40109","Hurto",21
+"2018","1","AREQUIPA","AREQUIPA","MARIANO MELGAR","40109","Otros",60
+"2018","1","AREQUIPA","AREQUIPA","MARIANO MELGAR","40109","Robo",11
+"2018","1","AREQUIPA","AREQUIPA","MARIANO MELGAR","40109","Violencia contra la mujer e integrantes",104
+"2018","1","AREQUIPA","AREQUIPA","MIRAFLORES","40110","Estafa",1
+"2018","1","AREQUIPA","AREQUIPA","MIRAFLORES","40110","Hurto",48
+"2018","1","AREQUIPA","AREQUIPA","MIRAFLORES","40110","Otros",96
+"2018","1","AREQUIPA","AREQUIPA","MIRAFLORES","40110","Robo",5
+"2018","1","AREQUIPA","AREQUIPA","MIRAFLORES","40110","Violencia contra la mujer e integrantes",96
+"2018","1","AREQUIPA","AREQUIPA","MOLLEBAYA","40111","Otros",11
+"2018","1","AREQUIPA","AREQUIPA","MOLLEBAYA","40111","Violencia contra la mujer e integrantes",2
+"2018","1","AREQUIPA","AREQUIPA","PAUCARPATA","40112","Estafa",4
+"2018","1","AREQUIPA","AREQUIPA","PAUCARPATA","40112","Hurto",40
+"2018","1","AREQUIPA","AREQUIPA","PAUCARPATA","40112","Otros",93
+"2018","1","AREQUIPA","AREQUIPA","PAUCARPATA","40112","Robo",23
+"2018","1","AREQUIPA","AREQUIPA","PAUCARPATA","40112","Secuestro",1
+"2018","1","AREQUIPA","AREQUIPA","PAUCARPATA","40112","Violencia contra la mujer e integrantes",163
+"2018","1","AREQUIPA","AREQUIPA","POCSI","40113","Hurto",1
+"2018","1","AREQUIPA","AREQUIPA","POLOBAYA","40114","Otros",1
+"2018","1","AREQUIPA","AREQUIPA","QUEQUEÑA","40115","Hurto",1
+"2018","1","AREQUIPA","AREQUIPA","QUEQUEÑA","40115","Otros",2
+"2018","1","AREQUIPA","AREQUIPA","QUEQUEÑA","40115","Violencia contra la mujer e integrantes",2
+"2018","1","AREQUIPA","AREQUIPA","SABANDIA","40116","Hurto",1
+"2018","1","AREQUIPA","AREQUIPA","SABANDIA","40116","Otros",8
+"2018","1","AREQUIPA","AREQUIPA","SABANDIA","40116","Robo",2
+"2018","1","AREQUIPA","AREQUIPA","SABANDIA","40116","Violencia contra la mujer e integrantes",4
+"2018","1","AREQUIPA","AREQUIPA","SACHACA","40117","Estafa",2
+"2018","1","AREQUIPA","AREQUIPA","SACHACA","40117","Hurto",7
+"2018","1","AREQUIPA","AREQUIPA","SACHACA","40117","Otros",41
+"2018","1","AREQUIPA","AREQUIPA","SACHACA","40117","Robo",4
+"2018","1","AREQUIPA","AREQUIPA","SACHACA","40117","Violencia contra la mujer e integrantes",32
+"2018","1","AREQUIPA","AREQUIPA","SAN JUAN DE SIGUAS","40118","Otros",1
+"2018","1","AREQUIPA","AREQUIPA","SAN JUAN DE SIGUAS","40118","Robo",1
+"2018","1","AREQUIPA","AREQUIPA","SAN JUAN DE SIGUAS","40118","Violencia contra la mujer e integrantes",1
+"2018","1","AREQUIPA","AREQUIPA","SANTA RITA DE SIGUAS","40121","Violencia contra la mujer e integrantes",3
+"2018","1","AREQUIPA","AREQUIPA","SOCABAYA","40122","Estafa",1
+"2018","1","AREQUIPA","AREQUIPA","SOCABAYA","40122","Hurto",31
+"2018","1","AREQUIPA","AREQUIPA","SOCABAYA","40122","Otros",88
+"2018","1","AREQUIPA","AREQUIPA","SOCABAYA","40122","Robo",23
+"2018","1","AREQUIPA","AREQUIPA","SOCABAYA","40122","Violencia contra la mujer e integrantes",111
+"2018","1","AREQUIPA","AREQUIPA","TIABAYA","40123","Estafa",1
+"2018","1","AREQUIPA","AREQUIPA","TIABAYA","40123","Hurto",9
+"2018","1","AREQUIPA","AREQUIPA","TIABAYA","40123","Otros",35
+"2018","1","AREQUIPA","AREQUIPA","TIABAYA","40123","Violencia contra la mujer e integrantes",16
+"2018","1","AREQUIPA","AREQUIPA","UCHUMAYO","40124","Estafa",2
+"2018","1","AREQUIPA","AREQUIPA","UCHUMAYO","40124","Hurto",9
+"2018","1","AREQUIPA","AREQUIPA","UCHUMAYO","40124","Otros",21
+"2018","1","AREQUIPA","AREQUIPA","UCHUMAYO","40124","Robo",3
+"2018","1","AREQUIPA","AREQUIPA","UCHUMAYO","40124","Secuestro",1
+"2018","1","AREQUIPA","AREQUIPA","UCHUMAYO","40124","Violencia contra la mujer e integrantes",26
+"2018","1","AREQUIPA","AREQUIPA","YANAHUARA","40126","Estafa",1
+"2018","1","AREQUIPA","AREQUIPA","YANAHUARA","40126","Hurto",37
+"2018","1","AREQUIPA","AREQUIPA","YANAHUARA","40126","Otros",72
+"2018","1","AREQUIPA","AREQUIPA","YANAHUARA","40126","Robo",5
+"2018","1","AREQUIPA","AREQUIPA","YANAHUARA","40126","Violencia contra la mujer e integrantes",32
+"2018","1","AREQUIPA","AREQUIPA","YARABAMBA","40127","Otros",3
+"2018","1","AREQUIPA","AREQUIPA","YARABAMBA","40127","Violencia contra la mujer e integrantes",1
+"2018","1","AREQUIPA","AREQUIPA","YURA","40128","Hurto",9
+"2018","1","AREQUIPA","AREQUIPA","YURA","40128","Otros",22
+"2018","1","AREQUIPA","AREQUIPA","YURA","40128","Robo",1
+"2018","1","AREQUIPA","AREQUIPA","YURA","40128","Violencia contra la mujer e integrantes",34
+"2018","1","AREQUIPA","CAMANA","CAMANA","40201","Hurto",1
+"2018","1","AREQUIPA","CAMANA","CAMANA","40201","Otros",23
+"2018","1","AREQUIPA","CAMANA","CAMANA","40201","Robo",2
+"2018","1","AREQUIPA","CAMANA","CAMANA","40201","Secuestro",2
+"2018","1","AREQUIPA","CAMANA","CAMANA","40201","Violencia contra la mujer e integrantes",20
+"2018","1","AREQUIPA","CAMANA","JOSE MARIA QUIMPER","40202","Hurto",1
+"2018","1","AREQUIPA","CAMANA","JOSE MARIA QUIMPER","40202","Otros",2
+"2018","1","AREQUIPA","CAMANA","JOSE MARIA QUIMPER","40202","Violencia contra la mujer e integrantes",2
+"2018","1","AREQUIPA","CAMANA","MARIANO NICOLAS VALCARCEL","40203","Otros",2
+"2018","1","AREQUIPA","CAMANA","MARISCAL CACERES","40204","Hurto",2
+"2018","1","AREQUIPA","CAMANA","MARISCAL CACERES","40204","Otros",8
+"2018","1","AREQUIPA","CAMANA","MARISCAL CACERES","40204","Robo",1
+"2018","1","AREQUIPA","CAMANA","MARISCAL CACERES","40204","Violencia contra la mujer e integrantes",8
+"2018","1","AREQUIPA","CAMANA","NICOLAS DE PIEROLA","40205","Otros",1
+"2018","1","AREQUIPA","CAMANA","NICOLAS DE PIEROLA","40205","Violencia contra la mujer e integrantes",1
+"2018","1","AREQUIPA","CAMANA","OCOÑA","40206","Otros",4
+"2018","1","AREQUIPA","CAMANA","OCOÑA","40206","Violencia contra la mujer e integrantes",3
+"2018","1","AREQUIPA","CAMANA","SAMUEL PASTOR","40208","Hurto",15
+"2018","1","AREQUIPA","CAMANA","SAMUEL PASTOR","40208","Otros",35
+"2018","1","AREQUIPA","CAMANA","SAMUEL PASTOR","40208","Robo",1
+"2018","1","AREQUIPA","CAMANA","SAMUEL PASTOR","40208","Violencia contra la mujer e integrantes",26
+"2018","1","AREQUIPA","CARAVELI","ACARI","40302","Hurto",1
+"2018","1","AREQUIPA","CARAVELI","ACARI","40302","Otros",5
+"2018","1","AREQUIPA","CARAVELI","ACARI","40302","Violencia contra la mujer e integrantes",1
+"2018","1","AREQUIPA","CARAVELI","ATICO","40303","Hurto",1
+"2018","1","AREQUIPA","CARAVELI","ATICO","40303","Otros",2
+"2018","1","AREQUIPA","CARAVELI","ATICO","40303","Violencia contra la mujer e integrantes",3
+"2018","1","AREQUIPA","CARAVELI","BELLA UNION","40305","Hurto",1
+"2018","1","AREQUIPA","CARAVELI","BELLA UNION","40305","Otros",3
+"2018","1","AREQUIPA","CARAVELI","CARAVELI","40301","Hurto",1
+"2018","1","AREQUIPA","CARAVELI","CARAVELI","40301","Otros",4
+"2018","1","AREQUIPA","CARAVELI","CARAVELI","40301","Violencia contra la mujer e integrantes",4
+"2018","1","AREQUIPA","CARAVELI","CHALA","40307","Estafa",1
+"2018","1","AREQUIPA","CARAVELI","CHALA","40307","Extorsión",1
+"2018","1","AREQUIPA","CARAVELI","CHALA","40307","Hurto",8
+"2018","1","AREQUIPA","CARAVELI","CHALA","40307","Otros",14
+"2018","1","AREQUIPA","CARAVELI","CHALA","40307","Robo",2
+"2018","1","AREQUIPA","CARAVELI","CHALA","40307","Violencia contra la mujer e integrantes",7
+"2018","1","AREQUIPA","CARAVELI","CHAPARRA","40308","Hurto",1
+"2018","1","AREQUIPA","CARAVELI","CHAPARRA","40308","Otros",3
+"2018","1","AREQUIPA","CARAVELI","CHAPARRA","40308","Violencia contra la mujer e integrantes",3
+"2018","1","AREQUIPA","CARAVELI","LOMAS","40311","Hurto",2
+"2018","1","AREQUIPA","CARAVELI","LOMAS","40311","Otros",2
+"2018","1","AREQUIPA","CARAVELI","LOMAS","40311","Violencia contra la mujer e integrantes",1
+"2018","1","AREQUIPA","CARAVELI","QUICACHA","40312","Otros",1
+"2018","1","AREQUIPA","CARAVELI","YAUCA","40313","Hurto",1
+"2018","1","AREQUIPA","CARAVELI","YAUCA","40313","Otros",5
+"2018","1","AREQUIPA","CARAVELI","YAUCA","40313","Violencia contra la mujer e integrantes",1
+"2018","1","AREQUIPA","CASTILLA","APLAO","40401","Hurto",3
+"2018","1","AREQUIPA","CASTILLA","APLAO","40401","Otros",16
+"2018","1","AREQUIPA","CASTILLA","APLAO","40401","Robo",4
+"2018","1","AREQUIPA","CASTILLA","APLAO","40401","Violencia contra la mujer e integrantes",2
+"2018","1","AREQUIPA","CASTILLA","CHILCAYMARCA","40405","Otros",1
+"2018","1","AREQUIPA","CASTILLA","HUANCARQUI","40407","Violencia contra la mujer e integrantes",1
+"2018","1","AREQUIPA","CASTILLA","ORCOPAMPA","40409","Hurto",2
+"2018","1","AREQUIPA","CASTILLA","ORCOPAMPA","40409","Otros",3
+"2018","1","AREQUIPA","CASTILLA","ORCOPAMPA","40409","Violencia contra la mujer e integrantes",5
+"2018","1","AREQUIPA","CASTILLA","PAMPACOLCA","40410","Otros",4
+"2018","1","AREQUIPA","CASTILLA","PAMPACOLCA","40410","Violencia contra la mujer e integrantes",2
+"2018","1","AREQUIPA","CASTILLA","URACA","40413","Hurto",2
+"2018","1","AREQUIPA","CASTILLA","URACA","40413","Otros",5
+"2018","1","AREQUIPA","CASTILLA","URACA","40413","Violencia contra la mujer e integrantes",3
+"2018","1","AREQUIPA","CASTILLA","VIRACO","40414","Otros",1
+"2018","1","AREQUIPA","CAYLLOMA","CABANACONDE","40503","Otros",3
+"2018","1","AREQUIPA","CAYLLOMA","CAYLLOMA","40505","Otros",1
+"2018","1","AREQUIPA","CAYLLOMA","CHIVAY","40501","Hurto",8
+"2018","1","AREQUIPA","CAYLLOMA","CHIVAY","40501","Otros",12
+"2018","1","AREQUIPA","CAYLLOMA","CHIVAY","40501","Violencia contra la mujer e integrantes",20
+"2018","1","AREQUIPA","CAYLLOMA","COPORAQUE","40506","Otros",1
+"2018","1","AREQUIPA","CAYLLOMA","HUAMBO","40507","Otros",3
+"2018","1","AREQUIPA","CAYLLOMA","HUANCA","40508","Hurto",1
+"2018","1","AREQUIPA","CAYLLOMA","HUANCA","40508","Otros",7
+"2018","1","AREQUIPA","CAYLLOMA","HUANCA","40508","Secuestro",1
+"2018","1","AREQUIPA","CAYLLOMA","HUANCA","40508","Violencia contra la mujer e integrantes",4
+"2018","1","AREQUIPA","CAYLLOMA","MADRIGAL","40513","Otros",2
+"2018","1","AREQUIPA","CAYLLOMA","MAJES","40520","Estafa",4
+"2018","1","AREQUIPA","CAYLLOMA","MAJES","40520","Hurto",30
+"2018","1","AREQUIPA","CAYLLOMA","MAJES","40520","Otros",39
+"2018","1","AREQUIPA","CAYLLOMA","MAJES","40520","Robo",1
+"2018","1","AREQUIPA","CAYLLOMA","MAJES","40520","Secuestro",1
+"2018","1","AREQUIPA","CAYLLOMA","MAJES","40520","Violencia contra la mujer e integrantes",87
+"2018","1","AREQUIPA","CAYLLOMA","YANQUE","40519","Violencia contra la mujer e integrantes",1
+"2018","1","AREQUIPA","CONDESUYOS","CAYARANI","40603","Violencia contra la mujer e integrantes",1
+"2018","1","AREQUIPA","CONDESUYOS","CHUQUIBAMBA","40601","Hurto",1
+"2018","1","AREQUIPA","CONDESUYOS","CHUQUIBAMBA","40601","Otros",4
+"2018","1","AREQUIPA","CONDESUYOS","CHUQUIBAMBA","40601","Violencia contra la mujer e integrantes",2
+"2018","1","AREQUIPA","ISLAY","COCACHACRA","40702","Hurto",1
+"2018","1","AREQUIPA","ISLAY","COCACHACRA","40702","Otros",7
+"2018","1","AREQUIPA","ISLAY","COCACHACRA","40702","Robo",2
+"2018","1","AREQUIPA","ISLAY","COCACHACRA","40702","Violencia contra la mujer e integrantes",8
+"2018","1","AREQUIPA","ISLAY","DEAN VALDIVIA","40703","Hurto",1
+"2018","1","AREQUIPA","ISLAY","DEAN VALDIVIA","40703","Otros",2
+"2018","1","AREQUIPA","ISLAY","DEAN VALDIVIA","40703","Violencia contra la mujer e integrantes",5
+"2018","1","AREQUIPA","ISLAY","ISLAY","40704","Hurto",9
+"2018","1","AREQUIPA","ISLAY","ISLAY","40704","Otros",15
+"2018","1","AREQUIPA","ISLAY","ISLAY","40704","Violencia contra la mujer e integrantes",5
+"2018","1","AREQUIPA","ISLAY","MEJIA","40705","Hurto",9
+"2018","1","AREQUIPA","ISLAY","MEJIA","40705","Otros",2
+"2018","1","AREQUIPA","ISLAY","MOLLENDO","40701","Estafa",5
+"2018","1","AREQUIPA","ISLAY","MOLLENDO","40701","Hurto",54
+"2018","1","AREQUIPA","ISLAY","MOLLENDO","40701","Otros",60
+"2018","1","AREQUIPA","ISLAY","MOLLENDO","40701","Robo",10
+"2018","1","AREQUIPA","ISLAY","MOLLENDO","40701","Violencia contra la mujer e integrantes",74
+"2018","1","AREQUIPA","ISLAY","PUNTA DE BOMBON","40706","Hurto",1
+"2018","1","AREQUIPA","ISLAY","PUNTA DE BOMBON","40706","Otros",9
+"2018","1","AREQUIPA","ISLAY","PUNTA DE BOMBON","40706","Violencia contra la mujer e integrantes",9
+"2018","1","AREQUIPA","LA UNION","COTAHUASI","40801","Otros",2
+"2018","1","AYACUCHO","CANGALLO","CANGALLO","50201","Estafa",1
+"2018","1","AYACUCHO","CANGALLO","CANGALLO","50201","Hurto",1
+"2018","1","AYACUCHO","CANGALLO","CANGALLO","50201","Otros",5
+"2018","1","AYACUCHO","CANGALLO","CANGALLO","50201","Robo",1
+"2018","1","AYACUCHO","CANGALLO","LOS MOROCHUCOS","50203","Otros",1
+"2018","1","AYACUCHO","HUAMANGA","ACOCRO","50102","Otros",2
+"2018","1","AYACUCHO","HUAMANGA","ACOS VINCHOS","50103","Otros",3
+"2018","1","AYACUCHO","HUAMANGA","ACOS VINCHOS","50103","Violencia contra la mujer e integrantes",2
+"2018","1","AYACUCHO","HUAMANGA","ANDRES AVELINO CACERES","50116","Hurto",4
+"2018","1","AYACUCHO","HUAMANGA","ANDRES AVELINO CACERES","50116","Otros",7
+"2018","1","AYACUCHO","HUAMANGA","ANDRES AVELINO CACERES","50116","Robo",2
+"2018","1","AYACUCHO","HUAMANGA","ANDRES AVELINO CACERES","50116","Violencia contra la mujer e integrantes",27
+"2018","1","AYACUCHO","HUAMANGA","AYACUCHO","50101","Estafa",5
+"2018","1","AYACUCHO","HUAMANGA","AYACUCHO","50101","Hurto",74
+"2018","1","AYACUCHO","HUAMANGA","AYACUCHO","50101","Otros",72
+"2018","1","AYACUCHO","HUAMANGA","AYACUCHO","50101","Robo",18
+"2018","1","AYACUCHO","HUAMANGA","AYACUCHO","50101","Secuestro",2
+"2018","1","AYACUCHO","HUAMANGA","AYACUCHO","50101","Violencia contra la mujer e integrantes",127
+"2018","1","AYACUCHO","HUAMANGA","CARMEN ALTO","50104","Hurto",13
+"2018","1","AYACUCHO","HUAMANGA","CARMEN ALTO","50104","Otros",25
+"2018","1","AYACUCHO","HUAMANGA","CARMEN ALTO","50104","Robo",2
+"2018","1","AYACUCHO","HUAMANGA","CARMEN ALTO","50104","Violencia contra la mujer e integrantes",22
+"2018","1","AYACUCHO","HUAMANGA","CHIARA","50105","Otros",2
+"2018","1","AYACUCHO","HUAMANGA","CHIARA","50105","Robo",1
+"2018","1","AYACUCHO","HUAMANGA","CHIARA","50105","Violencia contra la mujer e integrantes",1
+"2018","1","AYACUCHO","HUAMANGA","JESUS NAZARENO","50115","Hurto",3
+"2018","1","AYACUCHO","HUAMANGA","JESUS NAZARENO","50115","Otros",5
+"2018","1","AYACUCHO","HUAMANGA","JESUS NAZARENO","50115","Robo",2
+"2018","1","AYACUCHO","HUAMANGA","JESUS NAZARENO","50115","Violencia contra la mujer e integrantes",17
+"2018","1","AYACUCHO","HUAMANGA","OCROS","50106","Otros",2
+"2018","1","AYACUCHO","HUAMANGA","QUINUA","50108","Otros",2
+"2018","1","AYACUCHO","HUAMANGA","SAN JUAN BAUTISTA","50110","Hurto",14
+"2018","1","AYACUCHO","HUAMANGA","SAN JUAN BAUTISTA","50110","Otros",16
+"2018","1","AYACUCHO","HUAMANGA","SAN JUAN BAUTISTA","50110","Robo",4
+"2018","1","AYACUCHO","HUAMANGA","SAN JUAN BAUTISTA","50110","Violencia contra la mujer e integrantes",37
+"2018","1","AYACUCHO","HUAMANGA","TAMBILLO","50113","Otros",1
+"2018","1","AYACUCHO","HUAMANGA","VINCHOS","50114","Violencia contra la mujer e integrantes",1
+"2018","1","AYACUCHO","HUANCA SANCOS","CARAPO","50302","Violencia contra la mujer e integrantes",1
+"2018","1","AYACUCHO","HUANCA SANCOS","SANCOS","50301","Otros",2
+"2018","1","AYACUCHO","HUANCA SANCOS","SANCOS","50301","Violencia contra la mujer e integrantes",3
+"2018","1","AYACUCHO","HUANCA SANCOS","SANTIAGO DE LUCANAMARCA","50304","Otros",1
+"2018","1","AYACUCHO","HUANTA","HUANTA","50401","Hurto",8
+"2018","1","AYACUCHO","HUANTA","HUANTA","50401","Otros",25
+"2018","1","AYACUCHO","HUANTA","HUANTA","50401","Robo",3
+"2018","1","AYACUCHO","HUANTA","HUANTA","50401","Violencia contra la mujer e integrantes",33
+"2018","1","AYACUCHO","HUANTA","LURICOCHA","50405","Otros",1
+"2018","1","AYACUCHO","HUANTA","SANTILLANA","50406","Otros",2
+"2018","1","AYACUCHO","HUANTA","SIVIA","50407","Hurto",3
+"2018","1","AYACUCHO","HUANTA","SIVIA","50407","Otros",6
+"2018","1","AYACUCHO","HUANTA","SIVIA","50407","Robo",1
+"2018","1","AYACUCHO","LA MAR","ANCO","50502","Otros",1
+"2018","1","AYACUCHO","LA MAR","ANCO","50502","Robo",1
+"2018","1","AYACUCHO","LA MAR","AYNA","50503","Hurto",8
+"2018","1","AYACUCHO","LA MAR","AYNA","50503","Otros",18
+"2018","1","AYACUCHO","LA MAR","AYNA","50503","Violencia contra la mujer e integrantes",4
+"2018","1","AYACUCHO","LA MAR","PALMAPAMPA","50509","Hurto",1
+"2018","1","AYACUCHO","LA MAR","PALMAPAMPA","50509","Otros",8
+"2018","1","AYACUCHO","LA MAR","PALMAPAMPA","50509","Secuestro",1
+"2018","1","AYACUCHO","LA MAR","PALMAPAMPA","50509","Violencia contra la mujer e integrantes",3
+"2018","1","AYACUCHO","LA MAR","SAN MIGUEL","50501","Hurto",1
+"2018","1","AYACUCHO","LA MAR","SAN MIGUEL","50501","Otros",6
+"2018","1","AYACUCHO","LA MAR","SAN MIGUEL","50501","Violencia contra la mujer e integrantes",8
+"2018","1","AYACUCHO","LA MAR","TAMBO","50508","Hurto",1
+"2018","1","AYACUCHO","LA MAR","TAMBO","50508","Otros",5
+"2018","1","AYACUCHO","LA MAR","TAMBO","50508","Violencia contra la mujer e integrantes",5
+"2018","1","AYACUCHO","LUCANAS","CABANA","50603","Otros",1
+"2018","1","AYACUCHO","LUCANAS","CHAVIÑA","50605","Hurto",1
+"2018","1","AYACUCHO","LUCANAS","LUCANAS","50611","Otros",1
+"2018","1","AYACUCHO","LUCANAS","LUCANAS","50611","Violencia contra la mujer e integrantes",1
+"2018","1","AYACUCHO","LUCANAS","PUQUIO","50601","Hurto",8
+"2018","1","AYACUCHO","LUCANAS","PUQUIO","50601","Otros",25
+"2018","1","AYACUCHO","LUCANAS","PUQUIO","50601","Robo",1
+"2018","1","AYACUCHO","LUCANAS","PUQUIO","50601","Violencia contra la mujer e integrantes",14
+"2018","1","AYACUCHO","LUCANAS","SAN JUAN","50616","Otros",1
+"2018","1","AYACUCHO","LUCANAS","SAN PEDRO","50617","Otros",1
+"2018","1","AYACUCHO","LUCANAS","SAN PEDRO DE PALCO","50618","Otros",1
+"2018","1","AYACUCHO","PARINACOCHAS","CHUMPI","50702","Otros",1
+"2018","1","AYACUCHO","PARINACOCHAS","CORACORA","50701","Hurto",3
+"2018","1","AYACUCHO","PARINACOCHAS","CORACORA","50701","Otros",12
+"2018","1","AYACUCHO","PARINACOCHAS","CORACORA","50701","Robo",2
+"2018","1","AYACUCHO","PARINACOCHAS","CORACORA","50701","Violencia contra la mujer e integrantes",17
+"2018","1","AYACUCHO","PARINACOCHAS","PACAPAUSA","50704","Otros",1
+"2018","1","AYACUCHO","PARINACOCHAS","PULLO","50705","Violencia contra la mujer e integrantes",2
+"2018","1","AYACUCHO","PARINACOCHAS","UPAHUACHO","50708","Violencia contra la mujer e integrantes",1
+"2018","1","AYACUCHO","PAUCAR DEL SARA SARA","PAUSA","50801","Hurto",3
+"2018","1","AYACUCHO","PAUCAR DEL SARA SARA","PAUSA","50801","Otros",3
+"2018","1","AYACUCHO","PAUCAR DEL SARA SARA","PAUSA","50801","Violencia contra la mujer e integrantes",1
+"2018","1","AYACUCHO","PAUCAR DEL SARA SARA","SAN JAVIER DE ALPABAMBA","50808","Otros",1
+"2018","1","AYACUCHO","PAUCAR DEL SARA SARA","SARA SARA","50810","Violencia contra la mujer e integrantes",1
+"2018","1","AYACUCHO","SUCRE","MORCOLLA","50906","Violencia contra la mujer e integrantes",1
+"2018","1","AYACUCHO","SUCRE","QUEROBAMBA","50901","Otros",3
+"2018","1","AYACUCHO","SUCRE","QUEROBAMBA","50901","Violencia contra la mujer e integrantes",2
+"2018","1","AYACUCHO","SUCRE","SAN SALVADOR DE QUIJE","50909","Otros",3
+"2018","1","AYACUCHO","VICTOR FAJARDO","CANARIA","51005","Hurto",1
+"2018","1","AYACUCHO","VICTOR FAJARDO","CANARIA","51005","Otros",1
+"2018","1","AYACUCHO","VILCAS HUAMAN","VISCHONGO","51108","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CAJABAMBA","CACHACHI","60202","Otros",1
+"2018","1","CAJAMARCA","CAJABAMBA","CACHACHI","60202","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CAJABAMBA","CAJABAMBA","60201","Estafa",1
+"2018","1","CAJAMARCA","CAJABAMBA","CAJABAMBA","60201","Hurto",11
+"2018","1","CAJAMARCA","CAJABAMBA","CAJABAMBA","60201","Otros",14
+"2018","1","CAJAMARCA","CAJABAMBA","CAJABAMBA","60201","Robo",1
+"2018","1","CAJAMARCA","CAJABAMBA","CAJABAMBA","60201","Violencia contra la mujer e integrantes",6
+"2018","1","CAJAMARCA","CAJABAMBA","CONDEBAMBA","60203","Hurto",1
+"2018","1","CAJAMARCA","CAJAMARCA","CAJAMARCA","60101","Estafa",1
+"2018","1","CAJAMARCA","CAJAMARCA","CAJAMARCA","60101","Hurto",83
+"2018","1","CAJAMARCA","CAJAMARCA","CAJAMARCA","60101","Otros",111
+"2018","1","CAJAMARCA","CAJAMARCA","CAJAMARCA","60101","Robo",12
+"2018","1","CAJAMARCA","CAJAMARCA","CAJAMARCA","60101","Violencia contra la mujer e integrantes",133
+"2018","1","CAJAMARCA","CAJAMARCA","ENCAÑADA","60105","Hurto",1
+"2018","1","CAJAMARCA","CAJAMARCA","ENCAÑADA","60105","Otros",3
+"2018","1","CAJAMARCA","CAJAMARCA","ENCAÑADA","60105","Violencia contra la mujer e integrantes",2
+"2018","1","CAJAMARCA","CAJAMARCA","JESUS","60106","Hurto",1
+"2018","1","CAJAMARCA","CAJAMARCA","JESUS","60106","Otros",9
+"2018","1","CAJAMARCA","CAJAMARCA","JESUS","60106","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CAJAMARCA","LLACANORA","60107","Hurto",1
+"2018","1","CAJAMARCA","CAJAMARCA","LLACANORA","60107","Otros",3
+"2018","1","CAJAMARCA","CAJAMARCA","LLACANORA","60107","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CAJAMARCA","LOS BAÑOS DEL INCA","60108","Hurto",11
+"2018","1","CAJAMARCA","CAJAMARCA","LOS BAÑOS DEL INCA","60108","Otros",31
+"2018","1","CAJAMARCA","CAJAMARCA","LOS BAÑOS DEL INCA","60108","Robo",1
+"2018","1","CAJAMARCA","CAJAMARCA","LOS BAÑOS DEL INCA","60108","Violencia contra la mujer e integrantes",20
+"2018","1","CAJAMARCA","CAJAMARCA","MAGDALENA","60109","Hurto",1
+"2018","1","CAJAMARCA","CAJAMARCA","MAGDALENA","60109","Otros",3
+"2018","1","CAJAMARCA","CAJAMARCA","NAMORA","60111","Hurto",1
+"2018","1","CAJAMARCA","CAJAMARCA","NAMORA","60111","Otros",3
+"2018","1","CAJAMARCA","CAJAMARCA","NAMORA","60111","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CAJAMARCA","SAN JUAN","60112","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CELENDIN","CELENDIN","60301","Extorsión",1
+"2018","1","CAJAMARCA","CELENDIN","CELENDIN","60301","Hurto",5
+"2018","1","CAJAMARCA","CELENDIN","CELENDIN","60301","Otros",15
+"2018","1","CAJAMARCA","CELENDIN","CELENDIN","60301","Robo",4
+"2018","1","CAJAMARCA","CELENDIN","CELENDIN","60301","Secuestro",1
+"2018","1","CAJAMARCA","CELENDIN","CELENDIN","60301","Violencia contra la mujer e integrantes",25
+"2018","1","CAJAMARCA","CELENDIN","HUASMIN","60304","Otros",3
+"2018","1","CAJAMARCA","CELENDIN","JOSE GALVEZ","60306","Hurto",1
+"2018","1","CAJAMARCA","CELENDIN","JOSE GALVEZ","60306","Otros",2
+"2018","1","CAJAMARCA","CELENDIN","MIGUEL IGLESIAS","60307","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CELENDIN","SOROCHUCO","60309","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CELENDIN","SUCRE","60310","Robo",2
+"2018","1","CAJAMARCA","CELENDIN","UTCO","60311","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CHOTA","CHOTA","60401","Estafa",4
+"2018","1","CAJAMARCA","CHOTA","CHOTA","60401","Hurto",14
+"2018","1","CAJAMARCA","CHOTA","CHOTA","60401","Otros",21
+"2018","1","CAJAMARCA","CHOTA","CHOTA","60401","Robo",1
+"2018","1","CAJAMARCA","CHOTA","CHOTA","60401","Secuestro",1
+"2018","1","CAJAMARCA","CHOTA","CHOTA","60401","Violencia contra la mujer e integrantes",31
+"2018","1","CAJAMARCA","CHOTA","HUAMBOS","60409","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CHOTA","LLAMA","60411","Otros",2
+"2018","1","CAJAMARCA","CHOTA","QUEROCOTO","60415","Otros",1
+"2018","1","CAJAMARCA","CONTUMAZA","CHILETE","60502","Hurto",1
+"2018","1","CAJAMARCA","CONTUMAZA","CHILETE","60502","Otros",3
+"2018","1","CAJAMARCA","CONTUMAZA","CONTUMAZA","60501","Hurto",3
+"2018","1","CAJAMARCA","CONTUMAZA","CONTUMAZA","60501","Otros",7
+"2018","1","CAJAMARCA","CONTUMAZA","GUZMANGO","60504","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","CONTUMAZA","TANTARICA","60507","Otros",1
+"2018","1","CAJAMARCA","CONTUMAZA","YONAN","60508","Hurto",2
+"2018","1","CAJAMARCA","CONTUMAZA","YONAN","60508","Otros",3
+"2018","1","CAJAMARCA","CONTUMAZA","YONAN","60508","Robo",1
+"2018","1","CAJAMARCA","CUTERVO","CUTERVO","60601","Estafa",1
+"2018","1","CAJAMARCA","CUTERVO","CUTERVO","60601","Hurto",11
+"2018","1","CAJAMARCA","CUTERVO","CUTERVO","60601","Otros",37
+"2018","1","CAJAMARCA","CUTERVO","CUTERVO","60601","Robo",1
+"2018","1","CAJAMARCA","CUTERVO","CUTERVO","60601","Violencia contra la mujer e integrantes",35
+"2018","1","CAJAMARCA","CUTERVO","QUEROCOTILLO","60607","Otros",1
+"2018","1","CAJAMARCA","CUTERVO","SANTA CRUZ","60611","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","HUALGAYOC","BAMBAMARCA","60701","Estafa",1
+"2018","1","CAJAMARCA","HUALGAYOC","BAMBAMARCA","60701","Hurto",4
+"2018","1","CAJAMARCA","HUALGAYOC","BAMBAMARCA","60701","Otros",22
+"2018","1","CAJAMARCA","HUALGAYOC","BAMBAMARCA","60701","Violencia contra la mujer e integrantes",22
+"2018","1","CAJAMARCA","HUALGAYOC","HUALGAYOC","60703","Hurto",2
+"2018","1","CAJAMARCA","HUALGAYOC","HUALGAYOC","60703","Robo",1
+"2018","1","CAJAMARCA","JAEN","BELLAVISTA","60802","Hurto",5
+"2018","1","CAJAMARCA","JAEN","BELLAVISTA","60802","Otros",9
+"2018","1","CAJAMARCA","JAEN","BELLAVISTA","60802","Violencia contra la mujer e integrantes",3
+"2018","1","CAJAMARCA","JAEN","HUABAL","60805","Hurto",2
+"2018","1","CAJAMARCA","JAEN","HUABAL","60805","Otros",2
+"2018","1","CAJAMARCA","JAEN","HUABAL","60805","Robo",1
+"2018","1","CAJAMARCA","JAEN","HUABAL","60805","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","JAEN","JAEN","60801","Extorsión",1
+"2018","1","CAJAMARCA","JAEN","JAEN","60801","Hurto",129
+"2018","1","CAJAMARCA","JAEN","JAEN","60801","Otros",67
+"2018","1","CAJAMARCA","JAEN","JAEN","60801","Robo",11
+"2018","1","CAJAMARCA","JAEN","JAEN","60801","Violencia contra la mujer e integrantes",70
+"2018","1","CAJAMARCA","JAEN","LAS PIRIAS","60806","Hurto",2
+"2018","1","CAJAMARCA","JAEN","LAS PIRIAS","60806","Otros",6
+"2018","1","CAJAMARCA","JAEN","LAS PIRIAS","60806","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","JAEN","POMAHUACA","60807","Otros",1
+"2018","1","CAJAMARCA","JAEN","POMAHUACA","60807","Violencia contra la mujer e integrantes",3
+"2018","1","CAJAMARCA","JAEN","PUCARA","60808","Hurto",2
+"2018","1","CAJAMARCA","JAEN","PUCARA","60808","Otros",3
+"2018","1","CAJAMARCA","JAEN","PUCARA","60808","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","JAEN","SAN JOSE DEL ALTO","60811","Otros",1
+"2018","1","CAJAMARCA","JAEN","SANTA ROSA","60812","Hurto",4
+"2018","1","CAJAMARCA","JAEN","SANTA ROSA","60812","Otros",4
+"2018","1","CAJAMARCA","JAEN","SANTA ROSA","60812","Robo",1
+"2018","1","CAJAMARCA","SAN IGNACIO","CHIRINOS","60902","Otros",2
+"2018","1","CAJAMARCA","SAN IGNACIO","CHIRINOS","60902","Secuestro",1
+"2018","1","CAJAMARCA","SAN IGNACIO","CHIRINOS","60902","Violencia contra la mujer e integrantes",4
+"2018","1","CAJAMARCA","SAN IGNACIO","LA COIPA","60904","Hurto",1
+"2018","1","CAJAMARCA","SAN IGNACIO","LA COIPA","60904","Otros",2
+"2018","1","CAJAMARCA","SAN IGNACIO","SAN IGNACIO","60901","Hurto",5
+"2018","1","CAJAMARCA","SAN IGNACIO","SAN IGNACIO","60901","Otros",23
+"2018","1","CAJAMARCA","SAN IGNACIO","SAN IGNACIO","60901","Robo",3
+"2018","1","CAJAMARCA","SAN IGNACIO","SAN IGNACIO","60901","Violencia contra la mujer e integrantes",11
+"2018","1","CAJAMARCA","SAN IGNACIO","SAN JOSE DE LOURDES","60906","Hurto",1
+"2018","1","CAJAMARCA","SAN IGNACIO","SAN JOSE DE LOURDES","60906","Otros",4
+"2018","1","CAJAMARCA","SAN MARCOS","CHANCAY","61002","Otros",2
+"2018","1","CAJAMARCA","SAN MARCOS","CHANCAY","61002","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","SAN MARCOS","EDUARDO VILLANUEVA","61003","Otros",3
+"2018","1","CAJAMARCA","SAN MARCOS","ICHOCAN","61005","Otros",3
+"2018","1","CAJAMARCA","SAN MARCOS","JOSE MANUEL QUIROZ","61006","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","SAN MARCOS","JOSE SABOGAL","61007","Otros",2
+"2018","1","CAJAMARCA","SAN MARCOS","JOSE SABOGAL","61007","Violencia contra la mujer e integrantes",2
+"2018","1","CAJAMARCA","SAN MARCOS","PEDRO GALVEZ","61001","Hurto",4
+"2018","1","CAJAMARCA","SAN MARCOS","PEDRO GALVEZ","61001","Otros",4
+"2018","1","CAJAMARCA","SAN MARCOS","PEDRO GALVEZ","61001","Robo",1
+"2018","1","CAJAMARCA","SAN MARCOS","PEDRO GALVEZ","61001","Violencia contra la mujer e integrantes",16
+"2018","1","CAJAMARCA","SAN MIGUEL","CALQUIS","61103","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","SAN MIGUEL","CATILLUC","61104","Hurto",1
+"2018","1","CAJAMARCA","SAN MIGUEL","CATILLUC","61104","Otros",1
+"2018","1","CAJAMARCA","SAN MIGUEL","LLAPA","61107","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","SAN MIGUEL","NIEPOS","61109","Otros",1
+"2018","1","CAJAMARCA","SAN MIGUEL","NIEPOS","61109","Robo",1
+"2018","1","CAJAMARCA","SAN MIGUEL","SAN MIGUEL","61101","Estafa",1
+"2018","1","CAJAMARCA","SAN MIGUEL","SAN MIGUEL","61101","Otros",1
+"2018","1","CAJAMARCA","SAN MIGUEL","SAN MIGUEL","61101","Violencia contra la mujer e integrantes",5
+"2018","1","CAJAMARCA","SAN MIGUEL","SAN SILVESTRE DE COCHAN","61111","Otros",1
+"2018","1","CAJAMARCA","SAN PABLO","SAN PABLO","61201","Otros",5
+"2018","1","CAJAMARCA","SAN PABLO","TUMBADEN","61204","Otros",2
+"2018","1","CAJAMARCA","SANTA CRUZ","ANDABAMBA","61302","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","SANTA CRUZ","CATACHE","61303","Violencia contra la mujer e integrantes",1
+"2018","1","CAJAMARCA","SANTA CRUZ","SANTA CRUZ","61301","Hurto",2
+"2018","1","CAJAMARCA","SANTA CRUZ","SANTA CRUZ","61301","Otros",7
+"2018","1","CAJAMARCA","SANTA CRUZ","SANTA CRUZ","61301","Violencia contra la mujer e integrantes",8
+"2018","1","CAJAMARCA","SANTA CRUZ","SAUCEPAMPA","61308","Otros",1
+"2018","1","CAJAMARCA","SANTA CRUZ","SAUCEPAMPA","61308","Violencia contra la mujer e integrantes",1
+"2018","1","CUSCO","ACOMAYO","ACOMAYO","80201","Hurto",2
+"2018","1","CUSCO","ANTA","ANCAHUASI","80302","Hurto",1
+"2018","1","CUSCO","ANTA","ANCAHUASI","80302","Otros",8
+"2018","1","CUSCO","ANTA","ANCAHUASI","80302","Violencia contra la mujer e integrantes",1
+"2018","1","CUSCO","ANTA","ANTA","80301","Hurto",4
+"2018","1","CUSCO","ANTA","ANTA","80301","Otros",10
+"2018","1","CUSCO","ANTA","ANTA","80301","Violencia contra la mujer e integrantes",18
+"2018","1","CUSCO","ANTA","CACHIMAYO","80303","Otros",3
+"2018","1","CUSCO","ANTA","LIMATAMBO","80306","Otros",4
+"2018","1","CUSCO","ANTA","LIMATAMBO","80306","Violencia contra la mujer e integrantes",3
+"2018","1","CUSCO","ANTA","PUCYURA","80308","Hurto",2
+"2018","1","CUSCO","ANTA","PUCYURA","80308","Violencia contra la mujer e integrantes",3
+"2018","1","CUSCO","ANTA","ZURITE","80309","Hurto",1
+"2018","1","CUSCO","CALCA","CALCA","80401","Hurto",3
+"2018","1","CUSCO","CALCA","CALCA","80401","Otros",13
+"2018","1","CUSCO","CALCA","CALCA","80401","Violencia contra la mujer e integrantes",6
+"2018","1","CUSCO","CALCA","COYA","80402","Otros",1
+"2018","1","CUSCO","CALCA","LAMAY","80403","Otros",4
+"2018","1","CUSCO","CALCA","PISAC","80405","Hurto",1
+"2018","1","CUSCO","CALCA","PISAC","80405","Otros",13
+"2018","1","CUSCO","CALCA","PISAC","80405","Violencia contra la mujer e integrantes",2
+"2018","1","CUSCO","CALCA","SAN SALVADOR","80406","Otros",1
+"2018","1","CUSCO","CALCA","YANATILE","80408","Otros",1
+"2018","1","CUSCO","CANAS","LAYO","80505","Otros",1
+"2018","1","CUSCO","CANAS","TUPAC AMARU","80508","Otros",1
+"2018","1","CUSCO","CANAS","YANAOCA","80501","Violencia contra la mujer e integrantes",2
+"2018","1","CUSCO","CANCHIS","CHECACUPE","80602","Otros",1
+"2018","1","CUSCO","CANCHIS","COMBAPATA","80603","Hurto",3
+"2018","1","CUSCO","CANCHIS","COMBAPATA","80603","Otros",5
+"2018","1","CUSCO","CANCHIS","COMBAPATA","80603","Violencia contra la mujer e integrantes",1
+"2018","1","CUSCO","CANCHIS","MARANGANI","80604","Hurto",1
+"2018","1","CUSCO","CANCHIS","MARANGANI","80604","Otros",5
+"2018","1","CUSCO","CANCHIS","MARANGANI","80604","Violencia contra la mujer e integrantes",3
+"2018","1","CUSCO","CANCHIS","PITUMARCA","80605","Otros",6
+"2018","1","CUSCO","CANCHIS","PITUMARCA","80605","Violencia contra la mujer e integrantes",3
+"2018","1","CUSCO","CANCHIS","SAN PABLO","80606","Otros",1
+"2018","1","CUSCO","CANCHIS","SAN PABLO","80606","Violencia contra la mujer e integrantes",2
+"2018","1","CUSCO","CANCHIS","SICUANI","80601","Hurto",14
+"2018","1","CUSCO","CANCHIS","SICUANI","80601","Otros",52
+"2018","1","CUSCO","CANCHIS","SICUANI","80601","Robo",6
+"2018","1","CUSCO","CANCHIS","SICUANI","80601","Violencia contra la mujer e integrantes",89
+"2018","1","CUSCO","CANCHIS","TINTA","80608","Otros",4
+"2018","1","CUSCO","CANCHIS","TINTA","80608","Violencia contra la mujer e integrantes",4
+"2018","1","CUSCO","CUSCO","CCORCA","80102","Hurto",1
+"2018","1","CUSCO","CUSCO","CUSCO","80101","Estafa",11
+"2018","1","CUSCO","CUSCO","CUSCO","80101","Hurto",78
+"2018","1","CUSCO","CUSCO","CUSCO","80101","Otros",133
+"2018","1","CUSCO","CUSCO","CUSCO","80101","Robo",14
+"2018","1","CUSCO","CUSCO","CUSCO","80101","Secuestro",2
+"2018","1","CUSCO","CUSCO","CUSCO","80101","Violencia contra la mujer e integrantes",141
+"2018","1","CUSCO","CUSCO","POROY","80103","Hurto",4
+"2018","1","CUSCO","CUSCO","POROY","80103","Otros",6
+"2018","1","CUSCO","CUSCO","POROY","80103","Violencia contra la mujer e integrantes",9
+"2018","1","CUSCO","CUSCO","SAN JERONIMO","80104","Estafa",2
+"2018","1","CUSCO","CUSCO","SAN JERONIMO","80104","Hurto",14
+"2018","1","CUSCO","CUSCO","SAN JERONIMO","80104","Otros",37
+"2018","1","CUSCO","CUSCO","SAN JERONIMO","80104","Robo",2
+"2018","1","CUSCO","CUSCO","SAN JERONIMO","80104","Violencia contra la mujer e integrantes",39
+"2018","1","CUSCO","CUSCO","SAN SEBASTIAN","80105","Extorsión",1
+"2018","1","CUSCO","CUSCO","SAN SEBASTIAN","80105","Hurto",52
+"2018","1","CUSCO","CUSCO","SAN SEBASTIAN","80105","Otros",100
+"2018","1","CUSCO","CUSCO","SAN SEBASTIAN","80105","Robo",10
+"2018","1","CUSCO","CUSCO","SAN SEBASTIAN","80105","Secuestro",1
+"2018","1","CUSCO","CUSCO","SAN SEBASTIAN","80105","Violencia contra la mujer e integrantes",108
+"2018","1","CUSCO","CUSCO","SANTIAGO","80106","Estafa",3
+"2018","1","CUSCO","CUSCO","SANTIAGO","80106","Hurto",29
+"2018","1","CUSCO","CUSCO","SANTIAGO","80106","Otros",69
+"2018","1","CUSCO","CUSCO","SANTIAGO","80106","Robo",5
+"2018","1","CUSCO","CUSCO","SANTIAGO","80106","Violencia contra la mujer e integrantes",122
+"2018","1","CUSCO","CUSCO","SAYLLA","80107","Hurto",2
+"2018","1","CUSCO","CUSCO","SAYLLA","80107","Otros",6
+"2018","1","CUSCO","CUSCO","SAYLLA","80107","Violencia contra la mujer e integrantes",10
+"2018","1","CUSCO","CUSCO","WANCHAQ","80108","Estafa",5
+"2018","1","CUSCO","CUSCO","WANCHAQ","80108","Hurto",74
+"2018","1","CUSCO","CUSCO","WANCHAQ","80108","Otros",103
+"2018","1","CUSCO","CUSCO","WANCHAQ","80108","Robo",7
+"2018","1","CUSCO","CUSCO","WANCHAQ","80108","Violencia contra la mujer e integrantes",68
+"2018","1","CUSCO","ESPINAR","ESPINAR","80801","Estafa",2
+"2018","1","CUSCO","ESPINAR","ESPINAR","80801","Hurto",14
+"2018","1","CUSCO","ESPINAR","ESPINAR","80801","Otros",9
+"2018","1","CUSCO","ESPINAR","ESPINAR","80801","Robo",2
+"2018","1","CUSCO","ESPINAR","PALLPATA","80805","Hurto",1
+"2018","1","CUSCO","LA CONVENCION","KIMBIRI","80907","Hurto",1
+"2018","1","CUSCO","LA CONVENCION","KIMBIRI","80907","Otros",3
+"2018","1","CUSCO","LA CONVENCION","MARANURA","80904","Otros",1
+"2018","1","CUSCO","LA CONVENCION","PICHARI","80910","Hurto",15
+"2018","1","CUSCO","LA CONVENCION","PICHARI","80910","Otros",18
+"2018","1","CUSCO","LA CONVENCION","PICHARI","80910","Secuestro",1
+"2018","1","CUSCO","LA CONVENCION","PICHARI","80910","Violencia contra la mujer e integrantes",7
+"2018","1","CUSCO","LA CONVENCION","SANTA ANA","80901","Estafa",1
+"2018","1","CUSCO","LA CONVENCION","SANTA ANA","80901","Hurto",26
+"2018","1","CUSCO","LA CONVENCION","SANTA ANA","80901","Otros",19
+"2018","1","CUSCO","LA CONVENCION","SANTA ANA","80901","Robo",3
+"2018","1","CUSCO","LA CONVENCION","SANTA ANA","80901","Violencia contra la mujer e integrantes",54
+"2018","1","CUSCO","PARURO","COLCHA","81004","Estafa",1
+"2018","1","CUSCO","PARURO","PARURO","81001","Hurto",2
+"2018","1","CUSCO","PARURO","PARURO","81001","Otros",4
+"2018","1","CUSCO","PARURO","PARURO","81001","Violencia contra la mujer e integrantes",2
+"2018","1","CUSCO","PAUCARTAMBO","HUANCARANI","81105","Hurto",1
+"2018","1","CUSCO","PAUCARTAMBO","HUANCARANI","81105","Robo",1
+"2018","1","CUSCO","PAUCARTAMBO","HUANCARANI","81105","Violencia contra la mujer e integrantes",2
+"2018","1","CUSCO","PAUCARTAMBO","KOSÑIPATA","81106","Otros",1
+"2018","1","CUSCO","PAUCARTAMBO","KOSÑIPATA","81106","Violencia contra la mujer e integrantes",1
+"2018","1","CUSCO","QUISPICANCHI","ANDAHUAYLILLAS","81202","Hurto",1
+"2018","1","CUSCO","QUISPICANCHI","ANDAHUAYLILLAS","81202","Otros",1
+"2018","1","CUSCO","QUISPICANCHI","ANDAHUAYLILLAS","81202","Violencia contra la mujer e integrantes",2
+"2018","1","CUSCO","QUISPICANCHI","HUARO","81207","Otros",2
+"2018","1","CUSCO","QUISPICANCHI","HUARO","81207","Violencia contra la mujer e integrantes",1
+"2018","1","CUSCO","QUISPICANCHI","OCONGATE","81210","Estafa",1
+"2018","1","CUSCO","QUISPICANCHI","OROPESA","81211","Otros",3
+"2018","1","CUSCO","QUISPICANCHI","OROPESA","81211","Violencia contra la mujer e integrantes",3
+"2018","1","CUSCO","QUISPICANCHI","QUIQUIJANA","81212","Hurto",1
+"2018","1","CUSCO","QUISPICANCHI","URCOS","81201","Estafa",1
+"2018","1","CUSCO","QUISPICANCHI","URCOS","81201","Otros",2
+"2018","1","CUSCO","QUISPICANCHI","URCOS","81201","Violencia contra la mujer e integrantes",1
+"2018","1","CUSCO","URUBAMBA","CHINCHERO","81302","Hurto",1
+"2018","1","CUSCO","URUBAMBA","CHINCHERO","81302","Otros",9
+"2018","1","CUSCO","URUBAMBA","CHINCHERO","81302","Violencia contra la mujer e integrantes",6
+"2018","1","CUSCO","URUBAMBA","HUAYLLABAMBA","81303","Otros",3
+"2018","1","CUSCO","URUBAMBA","HUAYLLABAMBA","81303","Violencia contra la mujer e integrantes",3
+"2018","1","CUSCO","URUBAMBA","MACHUPICCHU","81304","Hurto",2
+"2018","1","CUSCO","URUBAMBA","MACHUPICCHU","81304","Otros",20
+"2018","1","CUSCO","URUBAMBA","MACHUPICCHU","81304","Violencia contra la mujer e integrantes",11
+"2018","1","CUSCO","URUBAMBA","MARAS","81305","Hurto",1
+"2018","1","CUSCO","URUBAMBA","MARAS","81305","Otros",5
+"2018","1","CUSCO","URUBAMBA","MARAS","81305","Robo",1
+"2018","1","CUSCO","URUBAMBA","MARAS","81305","Violencia contra la mujer e integrantes",6
+"2018","1","CUSCO","URUBAMBA","OLLANTAYTAMBO","81306","Estafa",1
+"2018","1","CUSCO","URUBAMBA","OLLANTAYTAMBO","81306","Hurto",1
+"2018","1","CUSCO","URUBAMBA","OLLANTAYTAMBO","81306","Otros",7
+"2018","1","CUSCO","URUBAMBA","URUBAMBA","81301","Hurto",2
+"2018","1","CUSCO","URUBAMBA","URUBAMBA","81301","Otros",18
+"2018","1","CUSCO","URUBAMBA","URUBAMBA","81301","Violencia contra la mujer e integrantes",37
+"2018","1","CUSCO","URUBAMBA","YUCAY","81307","Hurto",2
+"2018","1","CUSCO","URUBAMBA","YUCAY","81307","Violencia contra la mujer e integrantes",1
+"2018","1","HUANCAVELICA","ACOBAMBA","ACOBAMBA","90201","Violencia contra la mujer e integrantes",1
+"2018","1","HUANCAVELICA","ANGARAES","CONGALLA","90306","Violencia contra la mujer e integrantes",1
+"2018","1","HUANCAVELICA","ANGARAES","LIRCAY","90301","Otros",1
+"2018","1","HUANCAVELICA","HUANCAVELICA","ASCENSION","90118","Hurto",1
+"2018","1","HUANCAVELICA","HUANCAVELICA","ASCENSION","90118","Otros",8
+"2018","1","HUANCAVELICA","HUANCAVELICA","ASCENSION","90118","Violencia contra la mujer e integrantes",7
+"2018","1","HUANCAVELICA","HUANCAVELICA","HUANCAVELICA","90101","Estafa",2
+"2018","1","HUANCAVELICA","HUANCAVELICA","HUANCAVELICA","90101","Extorsión",3
+"2018","1","HUANCAVELICA","HUANCAVELICA","HUANCAVELICA","90101","Hurto",10
+"2018","1","HUANCAVELICA","HUANCAVELICA","HUANCAVELICA","90101","Otros",33
+"2018","1","HUANCAVELICA","HUANCAVELICA","HUANCAVELICA","90101","Robo",5
+"2018","1","HUANCAVELICA","HUANCAVELICA","HUANCAVELICA","90101","Violencia contra la mujer e integrantes",56
+"2018","1","HUANCAVELICA","HUANCAVELICA","HUANDO","90119","Otros",2
+"2018","1","HUANCAVELICA","HUANCAVELICA","IZCUCHACA","90108","Otros",1
+"2018","1","HUANCAVELICA","HUANCAVELICA","IZCUCHACA","90108","Violencia contra la mujer e integrantes",1
+"2018","1","HUANCAVELICA","HUANCAVELICA","YAULI","90117","Otros",2
+"2018","1","HUANCAVELICA","HUANCAVELICA","YAULI","90117","Violencia contra la mujer e integrantes",1
+"2018","1","HUANCAVELICA","HUAYTARA","HUAYTARA","90601","Otros",1
+"2018","1","HUANCAVELICA","TAYACAJA","ACOSTAMBO","90702","Robo",1
+"2018","1","HUANCAVELICA","TAYACAJA","ACOSTAMBO","90702","Violencia contra la mujer e integrantes",1
+"2018","1","HUANCAVELICA","TAYACAJA","DANIEL HERNANDEZ","90706","Hurto",1
+"2018","1","HUANCAVELICA","TAYACAJA","QUISHUAR","90713","Hurto",1
+"2018","1","HUANUCO","AMBO","AMBO","100201","Hurto",4
+"2018","1","HUANUCO","AMBO","AMBO","100201","Otros",11
+"2018","1","HUANUCO","AMBO","AMBO","100201","Robo",1
+"2018","1","HUANUCO","AMBO","AMBO","100201","Violencia contra la mujer e integrantes",15
+"2018","1","HUANUCO","AMBO","CONCHAMARCA","100204","Otros",2
+"2018","1","HUANUCO","AMBO","HUACAR","100205","Otros",1
+"2018","1","HUANUCO","AMBO","TOMAY KICHWA","100208","Otros",2
+"2018","1","HUANUCO","AMBO","TOMAY KICHWA","100208","Robo",1
+"2018","1","HUANUCO","AMBO","TOMAY KICHWA","100208","Violencia contra la mujer e integrantes",3
+"2018","1","HUANUCO","HUAMALIES","MONZON","100507","Hurto",1
+"2018","1","HUANUCO","HUAMALIES","MONZON","100507","Violencia contra la mujer e integrantes",1
+"2018","1","HUANUCO","HUANUCO","AMARILIS","100102","Estafa",1
+"2018","1","HUANUCO","HUANUCO","AMARILIS","100102","Hurto",4
+"2018","1","HUANUCO","HUANUCO","AMARILIS","100102","Otros",39
+"2018","1","HUANUCO","HUANUCO","AMARILIS","100102","Robo",6
+"2018","1","HUANUCO","HUANUCO","AMARILIS","100102","Violencia contra la mujer e integrantes",78
+"2018","1","HUANUCO","HUANUCO","CHINCHAO","100103","Otros",4
+"2018","1","HUANUCO","HUANUCO","CHINCHAO","100103","Violencia contra la mujer e integrantes",3
+"2018","1","HUANUCO","HUANUCO","HUANUCO","100101","Estafa",2
+"2018","1","HUANUCO","HUANUCO","HUANUCO","100101","Hurto",21
+"2018","1","HUANUCO","HUANUCO","HUANUCO","100101","Otros",60
+"2018","1","HUANUCO","HUANUCO","HUANUCO","100101","Robo",20
+"2018","1","HUANUCO","HUANUCO","HUANUCO","100101","Violencia contra la mujer e integrantes",108
+"2018","1","HUANUCO","HUANUCO","PILLCO MARCA","100111","Hurto",11
+"2018","1","HUANUCO","HUANUCO","PILLCO MARCA","100111","Otros",34
+"2018","1","HUANUCO","HUANUCO","PILLCO MARCA","100111","Robo",10
+"2018","1","HUANUCO","HUANUCO","PILLCO MARCA","100111","Violencia contra la mujer e integrantes",29
+"2018","1","HUANUCO","HUANUCO","QUISQUI","100106","Violencia contra la mujer e integrantes",1
+"2018","1","HUANUCO","HUANUCO","SAN FRANCISCO DE CAYRAN","100107","Otros",2
+"2018","1","HUANUCO","HUANUCO","SANTA MARIA DEL VALLE","100109","Otros",2
+"2018","1","HUANUCO","HUANUCO","SANTA MARIA DEL VALLE","100109","Violencia contra la mujer e integrantes",1
+"2018","1","HUANUCO","LEONCIO PRADO","DANIEL ALOMIAS ROBLES","100602","Otros",1
+"2018","1","HUANUCO","LEONCIO PRADO","DANIEL ALOMIAS ROBLES","100602","Violencia contra la mujer e integrantes",1
+"2018","1","HUANUCO","LEONCIO PRADO","HERMILIO VALDIZAN","100603","Violencia contra la mujer e integrantes",1
+"2018","1","HUANUCO","LEONCIO PRADO","JOSE CRESPO Y CASTILLO","100604","Hurto",5
+"2018","1","HUANUCO","LEONCIO PRADO","JOSE CRESPO Y CASTILLO","100604","Otros",12
+"2018","1","HUANUCO","LEONCIO PRADO","JOSE CRESPO Y CASTILLO","100604","Robo",2
+"2018","1","HUANUCO","LEONCIO PRADO","JOSE CRESPO Y CASTILLO","100604","Secuestro",1
+"2018","1","HUANUCO","LEONCIO PRADO","JOSE CRESPO Y CASTILLO","100604","Violencia contra la mujer e integrantes",8
+"2018","1","HUANUCO","LEONCIO PRADO","LUYANDO","100605","Hurto",1
+"2018","1","HUANUCO","LEONCIO PRADO","LUYANDO","100605","Violencia contra la mujer e integrantes",1
+"2018","1","HUANUCO","LEONCIO PRADO","MARIANO DAMASO BERAUN","100606","Hurto",1
+"2018","1","HUANUCO","LEONCIO PRADO","MARIANO DAMASO BERAUN","100606","Violencia contra la mujer e integrantes",1
+"2018","1","HUANUCO","LEONCIO PRADO","RUPA-RUPA","100601","Hurto",8
+"2018","1","HUANUCO","LEONCIO PRADO","RUPA-RUPA","100601","Otros",65
+"2018","1","HUANUCO","LEONCIO PRADO","RUPA-RUPA","100601","Robo",3
+"2018","1","HUANUCO","LEONCIO PRADO","RUPA-RUPA","100601","Violencia contra la mujer e integrantes",68
+"2018","1","HUANUCO","PACHITEA","CHAGLLA","100802","Otros",2
+"2018","1","HUANUCO","PACHITEA","MOLINO","100803","Hurto",1
+"2018","1","HUANUCO","PACHITEA","MOLINO","100803","Otros",1
+"2018","1","HUANUCO","PACHITEA","PANAO","100801","Otros",1
+"2018","1","HUANUCO","PUERTO INCA","CODO DEL POZUZO","100902","Otros",1
+"2018","1","HUANUCO","YAROWILCA","CHAVINILLO","101101","Otros",1
+"2018","1","ICA","CHINCHA","ALTO LARAN","110202","Hurto",7
+"2018","1","ICA","CHINCHA","ALTO LARAN","110202","Otros",13
+"2018","1","ICA","CHINCHA","ALTO LARAN","110202","Robo",1
+"2018","1","ICA","CHINCHA","ALTO LARAN","110202","Violencia contra la mujer e integrantes",5
+"2018","1","ICA","CHINCHA","CHAVIN","110203","Hurto",1
+"2018","1","ICA","CHINCHA","CHAVIN","110203","Otros",1
+"2018","1","ICA","CHINCHA","CHINCHA ALTA","110201","Estafa",1
+"2018","1","ICA","CHINCHA","CHINCHA ALTA","110201","Hurto",34
+"2018","1","ICA","CHINCHA","CHINCHA ALTA","110201","Otros",66
+"2018","1","ICA","CHINCHA","CHINCHA ALTA","110201","Robo",27
+"2018","1","ICA","CHINCHA","CHINCHA ALTA","110201","Violencia contra la mujer e integrantes",35
+"2018","1","ICA","CHINCHA","CHINCHA BAJA","110204","Hurto",2
+"2018","1","ICA","CHINCHA","CHINCHA BAJA","110204","Otros",7
+"2018","1","ICA","CHINCHA","CHINCHA BAJA","110204","Robo",7
+"2018","1","ICA","CHINCHA","CHINCHA BAJA","110204","Violencia contra la mujer e integrantes",10
+"2018","1","ICA","CHINCHA","EL CARMEN","110205","Hurto",3
+"2018","1","ICA","CHINCHA","EL CARMEN","110205","Otros",5
+"2018","1","ICA","CHINCHA","EL CARMEN","110205","Violencia contra la mujer e integrantes",8
+"2018","1","ICA","CHINCHA","GROCIO PRADO","110206","Hurto",10
+"2018","1","ICA","CHINCHA","GROCIO PRADO","110206","Otros",30
+"2018","1","ICA","CHINCHA","GROCIO PRADO","110206","Robo",19
+"2018","1","ICA","CHINCHA","GROCIO PRADO","110206","Violencia contra la mujer e integrantes",18
+"2018","1","ICA","CHINCHA","PUEBLO NUEVO","110207","Extorsión",1
+"2018","1","ICA","CHINCHA","PUEBLO NUEVO","110207","Hurto",22
+"2018","1","ICA","CHINCHA","PUEBLO NUEVO","110207","Otros",59
+"2018","1","ICA","CHINCHA","PUEBLO NUEVO","110207","Robo",21
+"2018","1","ICA","CHINCHA","PUEBLO NUEVO","110207","Secuestro",1
+"2018","1","ICA","CHINCHA","PUEBLO NUEVO","110207","Violencia contra la mujer e integrantes",58
+"2018","1","ICA","CHINCHA","SUNAMPE","110210","Hurto",4
+"2018","1","ICA","CHINCHA","SUNAMPE","110210","Otros",12
+"2018","1","ICA","CHINCHA","SUNAMPE","110210","Robo",9
+"2018","1","ICA","CHINCHA","SUNAMPE","110210","Violencia contra la mujer e integrantes",25
+"2018","1","ICA","CHINCHA","TAMBO DE MORA","110211","Hurto",1
+"2018","1","ICA","CHINCHA","TAMBO DE MORA","110211","Otros",3
+"2018","1","ICA","CHINCHA","TAMBO DE MORA","110211","Violencia contra la mujer e integrantes",2
